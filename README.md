@@ -99,7 +99,7 @@ The original dataset was connected to Looker Studio. Calculated fields and binne
 
 - `README.md` — Project overview, business questions, dashboard screenshots, key observations, and report access.
 - `screenshots/` — Screenshots of all three dashboard pages, with a folder-level README.
-- `documentation/calculated-fields-and-logic.md` — Calculated fields, binning configurations, optional metric selector, and interactive dashboard logic.
+- `Technical-documentation.md` — Calculated fields, binning configurations, optional metric selector, and interactive dashboard logic.
 - `Sleep-Debt-Screen-Time-Report.pdf` — Static PDF export of the complete three-page report.
 
 ## Access the Report
